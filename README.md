@@ -1,18 +1,12 @@
 # SonarQube Korean Language Pack
 
-### Author
-
-Moses Kim (<creatinov.kim@gmail.com>)
-
-### The Latest Versions
-
-https://github.com/SonarCommunity/sonar-l10n-ko/releases/latest
-
 
 ### Compatibility Matrix
 
-| SonarQube     | 7.0      |     |     |     |     |       |          |          |
+| SonarQube     | 10.6     |     |     |     |     |       |          |          |
 |:--------------|:---------|-----|-----|-----|-----|-------|----------|----------|
+| sonar-l10n-ko | 1.8      |     |     |     |     |       |          |          |
+| **SonarQube** | 7.0      |     |     |     |     |       |          |          |
 | sonar-l10n-ko | 1.7      |     |     |     |     |       |          |          |
 | **SonarQube** | 6.0      | 6.1 | 6.2 | 6.3 | 6.4 | 6.5   | 6.6      | 6.7(LTS) |
 | sonar-l10n-ko | 1.4      | <-  | <-  | <-  | <-  | 1.5.1 | <-       | 1.6      |
