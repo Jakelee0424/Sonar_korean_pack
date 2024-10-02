@@ -1,6 +1,8 @@
 # SonarQube Korean Language Pack
 
+
 ### SonarQube Korean Language Pack for myself
+
 
 ### Compatibility Matrix
 
@@ -33,15 +35,3 @@ https://github.com/SonarCommunity/sonar-l10n-ko/releases
 https://github.com/SonarCommunity/sonar-l10n-ko
 
 
-### Issue Tracker
-
-https://github.com/SonarCommunity/sonar-l10n-ko/issues
-
-
-### Contribution
-
-Contribution is always welcomed.
-- Fork this repository to your local account.
-- Make enhancement
-- Make pull request to this repository  
-# sonarQube_korean_pack
