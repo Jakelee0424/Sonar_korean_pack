@@ -19,8 +19,7 @@
 
 ### Installation
 
-You can download this plugin as;
-- Go Marketplace from SonarQube then install the plugin or,
+You can download this plugin as
 - Download the plugin manually, copy it into the plugin directory(`$SONAR_HOME/extensions/plugins/`) then restart the server.
 
 
